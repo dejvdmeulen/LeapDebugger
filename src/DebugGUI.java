@@ -9,7 +9,7 @@ import java.awt.event.WindowEvent;
 
 
 /**
- * Created by Bill Gates on 17/01/14.
+ * Created by Daniel on 17/01/14.
  */
 public class DebugGUI extends JFrame {
 

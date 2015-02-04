@@ -1,5 +1,5 @@
 /**
- * Created by Bill Gates on 17/01/14.
+ * Created by Daniel on 17/01/14.
  */
 import com.leapmotion.leap.*;
 
